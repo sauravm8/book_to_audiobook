@@ -1,5 +1,5 @@
 # The path of the book
-PATH_OF_BOOK = r"books\pride and prejudice.txt"
+PATH_OF_BOOK = r"books\bcbs195.pdf"
 
 # The path of the audio-book
 PATH_OF_AUDIOBOOK = r"audiobooks\test.mp3"
@@ -8,7 +8,7 @@ PATH_OF_AUDIOBOOK = r"audiobooks\test.mp3"
 MALE_VOICE = True
 
 # Rate of speaking
-RATE_OF_SPEAKING = 125
+RATE_OF_SPEAKING = 100
 
 # Volume at which the book was being recorded range 0-1
 VOLUME = 1.0

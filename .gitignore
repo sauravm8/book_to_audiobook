@@ -291,6 +291,7 @@ fabric.properties
 .idea/misc.xml
 .idea/parabole-business-data-profiling-backend.iml
 .idea/vcs.xml
+.idea/*
 
 audiobooks/*
 books/*
